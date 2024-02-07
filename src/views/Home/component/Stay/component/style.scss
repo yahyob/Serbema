@@ -1,0 +1,45 @@
+.card-box.conference_fee {
+  background-color: #009900;
+
+  .title {
+    h3 {
+      color    : #fff;
+      font-size: 25px;
+    }
+  }
+
+  .description {
+    color: #fff;
+
+    .card_price {
+      color    : #fff;
+      font-size: 20px;
+    }
+  }
+
+  .read-more {
+    border          : 2px solid #fff;
+    background-color: transparent;
+    color           : #fff;
+    transition      : all .3s;
+
+    &:hover {
+      background-color: #fff;
+      color           : #000;
+    }
+  }
+}
+
+@media screen and (max-width:768px) {
+  .card-box.conference_fee {
+    .title {
+      h3 {
+        font-size: 20px;
+      }
+    }
+
+    .description {
+      font-size: 18px;
+    }
+  }
+}

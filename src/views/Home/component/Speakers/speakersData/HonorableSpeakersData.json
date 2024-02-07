@@ -1,0 +1,107 @@
+[
+  {
+    "name": {
+      "en": "Alisher Shukurov ",
+      "uz": "Alisher Shukurov "
+    },
+    "profession": {
+      "en": " Deputy Minister of Agriculture of the Republic of Uzbekistan",
+      "uz": "O‘zbekiston Respublikasi qishloq xo‘jaligi vazirining o‘rinbosari"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Tashkent, Uzbekistan",
+      "uz": "Tashkent, Uzbekistan"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Alisher1.jpg",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "Kakhramon Yuldashev",
+      "uz": "Kakhramon Yuldashev"
+    },
+    "profession": {
+      "en": "Deputy Minister of Agriculture of the Republic of Uzbekistan",
+      "uz": "O‘zbekiston Respublikasi qishloq xo‘jaligi vazirining o‘rinbosari"
+      },
+      "country": {
+        "en": "Tashkent, Uzbekistan",
+        "uz": "Tashkent, Uzbekistan"
+      },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Kakhramon.jpg",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "Rr. Munira Aminova",
+      "uz": "Rr. Munira Aminova"
+    },
+    "profession": {
+      "en": "Rector, International Agriculture University ",
+      "uz": "Xalqaro qishloq xo‘jaligi universiteti rektori"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "uz": "Tashkent, Uzbekistan"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Munira.png",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "DG. Wu Wenbin",
+      "uz": "DG. Wu Wenbin"
+    },
+    "profession": {
+      "en": "Director General, Institute of Agricultural Resources and Regional Planning (IARRP, CAAS) ",
+      "uz": "Qishloq xo'jaligi resurslari va mintaqaviy rejalashtirish instituti bosh direktori (IARRP, CAAS)"
+    },
+    "country": {
+      "en": "Beijing, China",
+      "uz": "Beijing, China"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Wenbin.jpg",
+    "toUrl": ""
+  }
+]

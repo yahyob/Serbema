@@ -1,0 +1,89 @@
+[
+  {
+    "name": {
+      "en": "Obid Khakberdiyev",
+      "ru": "Обид Хакбердиев",
+      "uz": "OBID XAKBERDIYEV"
+    },
+    "profession": {
+      "en": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers,  National Research University",
+      "ru": "Ташкентский институт инженеров ирригации и механизации сельского хозяйства, Национальный Исследовательский Университет",
+      "uz": "Toshkent irrigatsiya va qishloq xo’jaligini mexanizatsiyalash muhandislari instituti, Milliy Tadqiqot Universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "PhD, Docent",
+      "ru": "Д.Ф.Н, Доцент",
+      "uz": "PhD, Docent"
+    },
+    "img": "/assets/img/Obidaka.jpg",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "Laziza Gofurova",
+      "ru": "Лазизахон Гофурова",
+      "uz": "LAZIZAXON GAFUROVA"
+    },
+    "profession": {
+      "en": "National University of Uzbekistan",
+      "ru": "Национальный университет Узбекистана",
+      "uz": "O’zbekiston Milliy Universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc, Professor",
+      "ru": "Д.Т.Н, Профессор",
+      "uz": "DSc, Professor"
+    },
+    "img": "/assets/img/Laziza.jpg",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "Normamat Namozov",
+      "ru": "Нормамат Намозов",
+      "uz": "NORMAMAT NAMOZOV"
+    },
+    "profession": {
+      "en": "Tashkent State Agrarian University",
+      "ru": "Ташкентский государственный Аграрный университет",
+      "uz": "Toshkent davlat agrar Universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "PhD",
+      "ru": "Д.Ф.Н",
+      "uz": "PhD"
+    },
+    "img": "/assets/img/Normamat.png",
+    "toUrl": ""
+  }
+]

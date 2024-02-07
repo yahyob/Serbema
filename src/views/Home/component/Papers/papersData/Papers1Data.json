@@ -1,0 +1,29 @@
+[
+  {
+    "title": {
+      "en": "Scientific achievements in rational use and conservation of Earth resources",
+      "ru": "Научные достижения в области рационального использования и охраны земельных ресурсов",
+      "uz": "yer resurslaridan oqilona foydalanish va asrashda fanlarning yutuqlari"
+    },
+    "imgUrl": "/assets/img/network.jpg",
+    "bg": "rgba(0, 153, 0, 0.6)"
+  },
+  {
+    "title": {
+      "en": "Innovative solutions and technologies for sustainable Earth resources management and biodiversity conservation",
+      "ru": "Инновационные решения и технологии для устойчивого управления земельными ресурсами и сохранения биоразнообразия",
+      "uz": "yer resurslarini barqaror boshqarish va bioxilmaxillikni saqlashda innovatsion yechimlar va texnologiyalar"
+    },
+    "imgUrl": "/assets/img/Sustainability-image.jpg",
+    "bg": "rgba(4, 85, 138, 0.6)"
+  },
+  {
+    "title": {
+      "en": "Biodiversity and its role in the sustainable management of Earth resources",
+      "ru": "Биоразнообразие и его роль в устойчивом управлении земельными ресурсами",
+      "uz": "bioxilmaxillik va uni yer resurslarini barqaror boshqarishdagi o’rni"
+    },
+    "imgUrl": "/assets/img/biodiversity.jpg",
+    "bg": "rgba(4, 85, 138, 0.6)"
+  }
+]

@@ -1,0 +1,113 @@
+[
+ 
+  
+  {
+    "name": {
+      "en": "Dr. Jusipbek Kazbekov",
+      "ru": "Максуд Рузметов",
+      "uz": "Dr. Jusipbek Kazbekov"
+    },
+    "profession": {
+      "en": "Deputy Minister of Ecology, Environmental Protection and Climate Change of The Republic of Uzbekistan  ",
+      "ru": "Заместитель министра сельского хозяйства Республики Узбекистан",
+      "uz": "O‘zbekiston Respublikasi Ekologiya, atrof-muhitni muhofaza qilish va iqlim o‘zgarishi vazirining o‘rinbosari"
+    },
+    "country": {
+      "en": "Tashkent, Uzbeksitan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/ilyosxon/Jusipbek Kazbekov.jpg"
+    
+  },
+  {
+    "name": {
+      "en": "Dr. Bakhtiyor Pulatov",
+      "ru": "Мария, Ромик",
+      "uz": "Dr. Bakhtiyor Pulatov"
+    },
+    "profession": {
+      "en": "Director of the Research Institute of Environment and Nature Conservation Technologies, ",
+      "ru": "ЗАГРЕБСКИЙ УНИВЕРСИТЕТ",
+      "uz": " Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti direktori,"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Загреб, Хорватия",
+      "uz": "Tashkent, Uzbekistan"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "Д.Т.Н, Профессор",
+      "uz": ""
+    },
+    "img": "/assets/img/ilyosxon/Bakhtiyor Pulatov.png"
+  },
+  {
+    "name": {
+      "en": "Sokhib Islamov",
+      "uz": "Sokhib Islamov"
+    },
+    "profession": {
+      "en": "Тhe first vice-rector at Tashkent State Agrarian University",
+      "uz": "Toshkent davlat agrar universiteti birinchi prorektori"
+      },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Tashkent, Uzbekistan",
+      "uz": "Tashkent, Uzbekistan"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Sokhib.jpg"
+   },
+
+  {
+    "name": {
+      "en": "Dr. Fadong Li",
+      "uz": "Dr. Fadong Li"
+    },
+    "profession": {
+      "en": "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences,  ",
+      "uz": "Xitoy Fanlar Akademiyasi Geografiya fanlari va tabiiy resurslarni tadqiq qilish instituti,"
+    },
+    "country": {
+      "en": "Beijing, China",
+      "uz": "Pekin, Xitoy"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/ilyosxon/keynote/Fadong Li.jpg"
+  }
+]

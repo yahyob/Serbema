@@ -1,0 +1,101 @@
+[
+ 
+    {
+        "name": {
+          "en": "Odil Jabborov ",
+          "uz": "Odil Jabborov "
+        },
+        "profession": {
+          "en": "Director at the “Soil Composition And Repository, Quality Analysis Centre” The State Unitary Enterprise",
+          "uz": "“Tuproq tarkibi va ombori, sifatini tahlil qilish markazi” Davlat unitar korxonasi direktori"
+        },
+        "country": {
+          "en": "Tashkent, Uzbekistan",
+          "uz": "Tashkent, Uzbekistan"
+        },
+        "job": {
+          "en": "",
+          "ru": "",
+          "uz": ""
+        },
+        "degree": {
+          "en": "",
+          "ru": "",
+          "uz": ""
+        },
+        "img": "/assets/img/Odil.jpg"
+    },
+    {
+      "name": {
+        "en": "Pr. Laziza Gofurova ",
+        "uz": "Pr. Laziza Gofurova "
+      },
+      "profession": {
+        "en": "– Professor at the National University of Uzbekistan ",
+        "uz": "– O‘zbekiston Milliy universiteti professori"
+      },
+      "country": {
+        "en": "Wageningen, The Netherlands",
+        "uz": "Wageningen, Niderlandiya"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Laziza.jpg"
+    },
+    {
+      "name": {
+        "en": "Pr. Hasan Boboev",
+        "uz": "Pr. Hasan Boboev"
+      },
+      "profession": {
+        "en": "Professor at the Research Institute of Environment and Nature Conservation Technologies",
+        "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti professori"
+      },
+      "country": {
+        "en": "St. Louis, the USA",
+        "uz": "St. Louis, AQSh"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Hasan.png"
+    },
+    {
+      "name": {
+        "en": "Pr. Dilrabo Kodirova",
+        "uz": "Pr. Dilrabo Kodirova"
+      },
+      "profession": {
+        "en": "Professor at the Tashkent State Agrarian University",
+        "uz": "Toshkent davlat agrar universiteti professori"
+      },
+      "country": {
+        "en": "St. Louis, the USA",
+        "uz": "St. Louis, AQSh"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Dilrabo.jpg"
+    }
+  ]

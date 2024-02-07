@@ -1,0 +1,29 @@
+[
+  {
+    "title": {
+      "en": "Efficiency of land use in agriculture",
+      "ru": "Рациональное использование земельных ресурсов в сельском хозяйстве",
+      "uz": "qishloq xo’jaligida yer resurslaridan samarali foydalanish"
+    },
+    "imgUrl": "/assets/img/land.jpg",
+    "bg": "rgba(4, 85, 138, 0.6)"
+  },
+  {
+    "title": {
+      "en": "Impact of global and local changes on ecology and the environment on Earth resources and biodiversity",
+      "ru": "Влияние глобальных и локальных изменений экологии и окружающей среды на земельные ресурсы и биоразнообразие",
+      "uz": "ekologiya va atrof-muhitdagi global va lokal o’zgarishlarning yer resurslari va bioxilmaxillikka ta’siri"
+    },
+    "imgUrl": "/assets/img/role.jpeg",
+    "bg": "rgba(0, 153, 0, 0.6)"
+  },
+  {
+    "title": {
+      "en": "Impact of water resources and natural hazards on land resources and biodiversity sustainability",
+      "ru": "Воздействие водных ресурсов и стихийных бедствий на земельные ресурсы и устойчивость биоразнообразия",
+      "uz": "suv resurslari va tabiiy xavflarning yer resurslari hamda bioxilmaxillik barqarorligiga ta’siri"
+    },
+    "imgUrl": "/assets/img/impact_water.jpg",
+    "bg": "rgba(0, 153, 0, 0.6)"
+  }
+]

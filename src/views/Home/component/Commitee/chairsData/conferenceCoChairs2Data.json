@@ -1,0 +1,118 @@
+[
+  {
+    "name": {
+      "en": "Aziz Nurbekov",
+      "ru": "Азиз Нурбеков",
+      "uz": "Aziz Nurbekov"
+    },
+    "profession": {
+      "en": "Tashkent State Agrarian University",
+      "ru": "Ташкентский государственный Аграрный университет",
+      "uz": "Toshkent Davlat Agrar Universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbeksitan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н, Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Aziz.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Aziz-Nurbekov"
+  },
+  {
+    "name": {
+      "en": "Tulkin Shamsiddinov",
+      "ru": "Тулкин Шамсиддинов",
+      "uz": "To’lqin Shamsiddinov"
+    },
+    "profession": {
+      "en": "Tashkent State Agrarian University Tashkent",
+      "ru": "Ташкентский государственный Аграрный университет",
+      "uz": "Toshkent Davlat Agrar Universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "PhD, Docent",
+      "ru": "Д.Ф.Н, Доцент",
+      "uz": "PhD, Docent"
+    },
+    "img": "/assets/img/Tulkin.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Tulkin-Shamsiddinov"
+  },
+  {
+    "name": {
+      "en": "Odil Jabborov",
+      "ru": "Одил Жабборов",
+      "uz": "Odil Jabborov"
+    },
+    "profession": {
+      "en": "Research Institute of Environment and Nature Conservation Technologies",
+      "ru": "Научно-исследовательский институт окружающей среды и природоохранных технологий'",
+      "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "General Director, PhD",
+      "ru": "Генеральный Директор, Д.Ф.Н",
+      "uz": "Bosh Direktor, Phd"
+    },
+    "img": "/assets/img/Jabborov.jpg",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "QODIRBEK MIRZAMAHMUDOV",
+      "ru": "КОДИРБЕК МИРЗАМАХМУДОВ",
+      "uz": "QODIRBEK MIRZAMAHMUDOV"
+    },
+    "profession": {
+      "en": "'IFODA AGRO KIMYO HIMOYA' JV LLC",
+      "ru": "ООО 'Ifoda Agro Kimyo Himoya'",
+      "uz": "'IFODA Agro Kimyo Himoya'MCHJ"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "General Director",
+      "ru": "Генеральный Директор",
+      "uz": "Bosh Direktor"
+    },
+    "img": "/assets/img/Qodirov.jpg",
+    "toUrl": "http://ifoda.uz/en"
+  }
+]

@@ -1,0 +1,22 @@
+.covid_info {
+  padding         : 8px 0;
+  background-color: #009900;
+  border-bottom   : 1px solid #232326;
+  text-align      : center;
+  transition      : all .3s;
+  position        : absolute;
+  bottom          : -45px;
+  width           : 100%;
+
+  &:hover {
+    background-color: rgba(0, 153, 0, 0.8);
+  }
+
+  .covid_info_link {
+    text-decoration: none;
+    font-size      : 15px;
+    color          : #fff;
+    width          : 100%;
+    display        : inline-block;
+  }
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "name": {
+      "en": "H.E. Aziz Abdukhakimov",
+      "ru": "Ҳ.Е. Aзиз Aбдукҳакимов",
+      "uz": "H.E. Aziz Abdukhakimov"
+    },
+    "profession": {
+      "en": "Minister of Ecology, Environmental Protection and Climate Change of The Republic of Uzbekistan",
+      "ru": "Национальный Университет Узбекситана",
+      "uz": "O’zbekiston Milliy universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc, Professor",
+      "ru": "Д.Т.Н, Профессор",
+      "uz": "DSc, Professor"
+    },
+    "img": "/assets/img/Aziz-Abduhakimov.png",
+    "toUrl": "https://www.researchgate.net/profile/Dilfuza-Egamberdieva"
+  },
+  {
+    "name": {
+      "en": "Maksud Ruzmetov",
+      "ru": "Максуд Рузметов",
+      "uz": "Maqsud Ruzmetov"
+    },
+    "profession": {
+      "en": "DEPUTY MINISTER AT THE MINISTRY OF AGRICULTURE OF THE REPUBLIC OF UZBEKISTAN",
+      "ru": "Заместитель министра сельского хозяйства Республики Узбекистан",
+      "uz": "O‘zbekiston Respublikasi qishloq xo‘jaligi vaziri o‘rinbosari"
+    },
+    "country": {
+      "en": "Tashkent, Uzbeksitan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc",
+      "ru": "Д.Т.Н",
+      "uz": "DSc"
+    },
+    "img": "/assets/img/Maqsud.jpg",
+    "toUrl": "https://www.agro.uz/ro-zmetov-maqsud-ismoilovich/"
+  },
+  {
+    "name": {
+      "en": "Marija Romic",
+      "ru": "Мария, Ромик",
+      "uz": "Marija Romic"
+    },
+    "profession": {
+      "en": "UNIVERSITY OF ZAGREB",
+      "ru": "ЗАГРЕБСКИЙ УНИВЕРСИТЕТ",
+      "uz": "Zagreb universiteti"
+    },
+    "country": {
+      "en": "ZAGREB, CROATIA",
+      "ru": "Загреб, Хорватия",
+      "uz": "zagreb, xorvatiya"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc, Professor",
+      "ru": "Д.Т.Н, Профессор",
+      "uz": "DSc, Professor"
+    },
+    "img": "/assets/img/Marija.png",
+    "toUrl": "https://www.researchgate.net/profile/Marija-Romic"
+  },
+  {
+    "name": {
+      "en": "Keisuke Katsura",
+      "ru": "Кэисуке Кацура",
+      "uz": "Keisuke Katsura"
+    },
+    "profession": {
+      "en": "Tokyo University of Agriculture and technology",
+      "ru": "Токийский университет сельского хозяйства и технологий",
+      "uz": "Tokio qishloq xo’jaligi va texnologiya universiteti"
+    },
+    "country": {
+      "en": "Tokyo, Japan",
+      "ru": "Токио, Япония",
+      "uz": "Tokio, Yaponiya"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc, Professor",
+      "ru": "Д.Т.Н, Профессор",
+      "uz": "DSc, Professor"
+    },
+    "img": "/assets/img/Keusuki.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Keisuke-Katsura"
+  }
+]

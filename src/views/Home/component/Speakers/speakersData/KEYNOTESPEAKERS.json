@@ -1,0 +1,85 @@
+[
+  {
+    "name": {
+      "en": "Shovkat Kholdorov ",
+      "ru": "Shovkat Kholdorov ",
+      "uz": "Shovkat Kholdorov "
+    },
+    "profession": {
+      "en": "Tokyo University of Agriculture and Technology | TUAT Graduate School of Agriculture)",
+      "uz": "Tokio qishloq xo'jaligi va texnologiya universiteti | TUAT qishloq xo'jaligi oliy maktabi"
+      },
+      "country": {
+        "en": "Tashkent, Uzbekistan",
+        "ru": "Tashkent, Uzbekistan",
+        "uz": "Tashkent, Uzbekistan"
+      },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Shovkat.png",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "Pr. Sayidjakhon Khasanov",
+      "uz": "Pr. Sayidjakhon Khasanov"
+    },
+    "profession": {
+      "en": "Professor, Research Institute of Environment and Nature Conservation Technologies  ",
+      "ru": "Профессор, НИИ экологии и природоохранных технологий",
+      "uz": "Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti professori"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Загреб, Хорватия",
+      "uz": "Tashkent, Uzbekistan"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Saidjaxon.jpg",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "St. Nuriddin Samatov ", 
+      "uz": "St. Nuriddin Samatov "
+    },
+    "profession": {
+      "en": "Specialist, Research Institute of Environment and Nature Conservation Technologies ",
+      "uz": "Mutaxassis, Atrof-muhit va tabiatni muhofaza qilish texnologiyalari ilmiy-tadqiqot instituti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Tashkent, Uzbekistan",
+      "uz": "Tashkent, Uzbekistan"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Nuriddin.jpg",
+    "toUrl": ""
+  }
+]

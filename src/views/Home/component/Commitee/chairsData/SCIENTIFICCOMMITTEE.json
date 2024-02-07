@@ -1,0 +1,108 @@
+[
+ 
+    {
+        "name": {
+          "en": "Pr. Tokhtasin Abdrakhmanov",
+          "uz": "Pr. Tokhtasin Abdrakhmanov"
+        },
+        "profession": {
+          "en": "– Professor at the National University of Uzbekistan, ",
+          "ru": "– профессор Национального университета Узбекистана,",
+          "uz": "– O‘zbekiston Milliy universiteti professori,"
+        },
+        "country": {
+          "en": "Tashkent, Uzbekistan",
+          "ru": "Загреб, Хорватия",
+          "uz": "Tashkent, Uzbekistan"
+        },
+        "job": {
+          "en": "",
+          "ru": "",
+          "uz": ""
+        },
+        "degree": {
+          "en": "",
+          "ru": "",
+          "uz": ""
+        },
+        "img": "/assets/img/Tohtasin.png"
+    },
+    {
+      "name": {
+        "en": "Pr. Zafarjon Jabbarov ",
+        "uz": "Pr. Zafarjon Jabbarov "
+      },
+      "profession": {
+        "en": "Professor at the National University of Uzbekistan  ",
+        "uz": "O‘zbekiston Milliy universiteti professori"
+      },
+      "country": {
+        "en": "Tashkent, Uzbeksitan",
+        "ru": "Ташкент, Узбекистан",
+        "uz": "Toshkent, O’zbekiston"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Zafarjon.jpg"
+    },
+    {
+      "name": {
+        "en": "Aziz Nurbekov ",
+        "ru": "Aziz Nurbekov ",
+        "uz": "Aziz Nurbekov "
+      },
+      "profession": {
+        "en": "UN FAO Representative",
+        "uz": "BMT FAO vakili"
+      },
+      "country": {
+        "en": "Shaanxi, China",
+        "ru": "Загреб, Хорватия",
+        "uz": "Shaanxi, China"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Aziz.jpg"
+    },
+    {
+      "name": {
+        "en": "Pr. Tulkin Shamsiddinov",
+        "uz": "Pr. Tulkin Shamsiddinov"
+      },
+      "profession": {
+        "en": "Lund University,",
+        "uz": "Lund universiteti"
+        },
+      "country": {
+        "en": "Lund, Sweden",
+        "ru": "Lund, Sweden",
+        "uz": "Lund, Sweden"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Tulkin.jpg"
+    }
+  ]

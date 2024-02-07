@@ -1,0 +1,186 @@
+[
+  {
+    "name": {
+      "en": "Pr. Yoshiko Kawabata ",
+      "uz": "Pr. Yoshiko Kawabata "
+    },
+    "profession": {
+      "en": "Professor, Tokyo University of Agriculture and Technology | TUAT",
+      "uz": "Tokio qishloq xo‘jaligi va texnologiya universiteti professori | TUAT"
+      },
+      "country": {
+        "en": "Tokio, Japan",
+        "uz": "Nitra, Slovakiya"
+      },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Yoshiko.png",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "Pr. Alisher Mirzabaev ",
+      "uz": "Pr. Alisher Mirzabaev "
+    },
+    "profession": {
+      "en": "Professor, University of Bonn | Uni Bonn",
+      "uz": "Bonn universiteti professori | Uni Bonn"
+    },
+    "country": {
+      "en": "Bonn, Germany",
+      "uz": "Bonn, Germany"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Alisher.png",
+    "toUrl": ""
+  },
+  {
+    "name": {
+      "en": "Pr. Olena Dubovyk", 
+      "uz": "Pr. Olena Dubovyk"
+    },
+    "profession": {
+      "en": "Professor, University of Bonn | Uni Bonn",
+      "uz": "Bonn universiteti professori | Uni Bonn"
+    },
+    "country": {
+      "en": "Bonn, Germany",
+      "uz": "Bonn, Germany"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Olena.jpg",
+    "toUrl": ""
+  },
+  
+  {
+    "name": {
+      "en": "Pr. Zeynep Demir",
+      "uz": "Pr. Zeynep Demir"
+    },
+    "profession": {
+      "en": "Professor, Soil, Fertilizer and Water Resources Central Research Institute",
+      "uz": "Tuproq, o‘g‘it va suv xo‘jaligi markaziy ilmiy-tadqiqot instituti professori"
+    },
+    "country": {
+      "en": "Ankara, Turkey",
+      "ru": "Ankara, Turkey",
+      "uz": "Ankara, Turkey"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Zaynap.jpg",
+    "toUrl": ""
+  },
+  
+    {
+      "name": {
+        "en": "Pr. Patrick Sorgeloos ",
+        "uz": "Pr. Patrick Sorgeloos "
+      },
+      "profession": {
+        "en": "Professor, Ghent University ",
+        "uz": "Gent universiteti professori"
+        },
+        "country": {
+          "en": "Ghent, Belgium",
+          "uz": "Ghent, Belgium"
+        },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Patrick.jpg",
+      "toUrl": ""
+    },
+    {
+      "name": {
+        "en": "Akmal Akramkhanov",
+        "uz": "Akmal Akramkhanov"
+      },
+      "profession": {
+        "en": "Senior Scientist, ICARDA",
+        "uz": "Katta olim, ICARDA"
+      },
+      "country": {
+        "en": "Tashkent, Uzbekistan",
+        "uz": "Tashkent, Uzbekistan"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Akmal.jpg",
+      "toUrl": ""
+    },
+    {
+      "name": {
+        "en": "Irina Kulitane",
+        "uz": "Irina Kulitane"
+      },
+      "profession": {
+        "en": " Professor, Latvia University of Life Sciences",
+        "uz": "Latviya hayot fanlari universiteti professori"
+      },
+      "country": {
+        "en": "Jelgava, Latvia",
+        "uz": "Jelgava, Latvia"
+      },
+      "job": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "degree": {
+        "en": "",
+        "ru": "",
+        "uz": ""
+      },
+      "img": "/assets/img/Irina1.png"
+    }
+  ]

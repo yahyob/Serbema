@@ -1,0 +1,118 @@
+[
+  {
+    "name": {
+      "en": "Shovkat Kholdorov",
+      "ru": "Шовкат Холдоров",
+      "uz": "Shovkat Xoldorov"
+    },
+    "profession": {
+      "en": "Tokyo University of Agraculture and Technology",
+      "ru": "Токийский университет сельского хозяйства и технологий",
+      "uz": "Tokio qishloq xo’jaligi va texnologiya universiteti"
+    },
+    "country": {
+      "en": "Tokyo, Japan",
+      "ru": "Токио, Япония",
+      "uz": "Tokio, yaponiya"
+    },
+    "job": {
+      "en": "Organization Affairs Coordinator",
+      "ru": "Координатор по организационным вопросам",
+      "uz": "Tashkiliy ishlar koordinatori"
+    },
+    "degree": {
+      "en": "Focal Point to GSP FAO",
+      "ru": "Координатор FAO GTH в Узбекистане",
+      "uz": "FAO GTH O’zbekistondagi Koordinatori"
+    },
+    "img": "/assets/img/Shovkat.png",
+    "toUrl": "https://www.researchgate.net/profile/Shovkat-Kholdorov"
+  },
+  {
+    "name": {
+      "en": "Sayidjakhon Khasanov",
+      "ru": "Саиджахон Хасанов",
+      "uz": "Saidjahon Xasanov"
+    },
+    "profession": {
+      "en": "Institute of Geographical Sciences and Natural Resources Research of the Chinese Academy of Sciences",
+      "ru": "Институт географических наук и исследования природных ресурсов Китайской академии наук",
+      "uz": "Xitoy fanlar akademiyasi geografiya fanlari va tabiiy resurslarni tadqiq qilish instituti"
+    },
+    "country": {
+      "en": "Beijing, China",
+      "ru": "Пекин, Китай",
+      "uz": "Pekin, Xitoy"
+    },
+    "job": {
+      "en": "Papers Coordinator",
+      "ru": "Координатор статей",
+      "uz": "Maqolalar koordinatori"
+    },
+    "degree": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "img": "/assets/img/Saidjahon.png",
+    "toUrl": "https://www.researchgate.net/profile/Sayidjakhon-Khasanov"
+  },
+  {
+    "name": {
+      "en": "Ilhomjon Aslanov",
+      "ru": "Илхомжон Асланов",
+      "uz": "Ilhomjon aslanov"
+    },
+    "profession": {
+      "en": "Tashkent Institute of Irridation and Agricultural Mechanization Engineers, National Research University",
+      "ru": "Ташкентский институт инженеров ирригации и механизации сельского хозяйства, Национальный Исследовательский Университет",
+      "uz": "Toshkent irrigatsiya va qishloq xo’jaligini mexanizatsiyalash muhandislari instituti, Milliy Tadqiqot Universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "Papers Coordinator",
+      "ru": "Координатор статей",
+      "uz": "Maqolalar Koordinatori"
+    },
+    "degree": {
+      "en": "PhD",
+      "ru": "Д.Ф.Н",
+      "uz": "PhD"
+    },
+    "img": "/assets/img/Ilhomjon.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Ilhomjon-Aslanov"
+  },
+  {
+    "name": {
+      "en": "BOBIRJON MIRAZIZOV",
+      "ru": "Бобиржон Миразизов",
+      "uz": "Bobirjon Mirazizov"
+    },
+    "profession": {
+      "en": "'AGRO NET TRADE' LLC",
+      "ru": "ООО 'AGRO NET TRADE'",
+      "uz": "'AGRO NET TRADE' MCHJ"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, o’zbekiston"
+    },
+    "job": {
+      "en": "PR coordinator",
+      "ru": "Координатор по PR",
+      "uz": "Pr(Ijtimoiy Aloqa) Koordinatori"
+    },
+    "degree": {
+      "en": "DEPUTY DIRECTOR",
+      "ru": "Заместитель директора",
+      "uz": "Direktor O’rinbosari"
+    },
+    "img": "/assets/img/Boburaka.jpg",
+    "toUrl": "https://agro-net-trade.uz/"
+  }
+]

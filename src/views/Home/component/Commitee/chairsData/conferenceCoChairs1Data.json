@@ -1,0 +1,118 @@
+[
+  {
+    "name": {
+      "en": "Ravshan Sobirov",
+      "ru": "Равшан Собиров",
+      "uz": "Ravshan Sobirov"
+    },
+    "profession": {
+      "en": "National University of Uzbekistan",
+      "ru": "Национальный университет Узбекистана",
+      "uz": "O’zbekiston Milliy Universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc, Academician",
+      "ru": "Д.Т.Н, Академик",
+      "uz": "DSc, Academician"
+    },
+    "img": "/assets/img/Ravshan.png",
+    "toUrl": "https://www.researchgate.net/profile/Ravshan-Sabirov-2"
+  },
+  {
+    "name": {
+      "en": "Pr. Tokhtasin Abdrakhmanov",
+      "ru": "Тухтасин Абдрахманов",
+      "uz": "To’xtasin Abdraxmonov"
+    },
+    "profession": {
+      "en": "National University of Uzbekistan",
+      "ru": "Национальный университет Узбекистана",
+      "uz": "O’zbekiston Milliy universiteti"
+    },
+    "country": {
+      "en": "Tashkent, UZBEKISTAN",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "PhD, Professor",
+      "ru": "Д.Ф.Н., Профессор",
+      "uz": "PhD, Professor"
+    },
+    "img": "/assets/img/Tokhtasin.jpg",
+    "toUrl": "https://www.researchgate.net/profile/Tokhtasin-Abdrakhmanov"
+  },
+  {
+    "name": {
+      "en": "Zafarjon Jabbarov",
+      "ru": "Зафаржон Жаббаров",
+      "uz": "Zafarjon Jabborov"
+    },
+    "profession": {
+      "en": "National University of Uzbekistan",
+      "ru": "Национальный университет Узбекистана",
+      "uz": "O’zbekiston Milliy universiteti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc Professor",
+      "ru": "Д.Т.Н., Профессор",
+      "uz": "DSc, Professor"
+    },
+    "img": "/assets/img/Zafarjon.png",
+    "toUrl": "https://www.researchgate.net/profile/Zafarjon-Jabbarov"
+  },
+  {
+    "name": {
+      "en": "Komiljon Tojiboyev",
+      "ru": "Комилжон Тожибоев",
+      "uz": "Komiljon Tojiboyev"
+    },
+    "profession": {
+      "en": "Institute of Botany of the Academy of Sciences",
+      "ru": "Институт ботаники Академии наук Республики Узбекистан",
+      "uz": "O’zbekiston Respublikasi Fanlar Akademiyasi Botanika Instituti"
+    },
+    "country": {
+      "en": "Tashkent, Uzbekistan",
+      "ru": "Ташкент, Узбекистан",
+      "uz": "Toshkent, O’zbekiston"
+    },
+    "job": {
+      "en": "",
+      "ru": "",
+      "uz": ""
+    },
+    "degree": {
+      "en": "DSc, Academician",
+      "ru": "Д.Т.Н., Академик",
+      "uz": "DSc, Academician"
+    },
+    "img": "/assets/img/Komiljonaka.jpg",
+    "toUrl": "https://hujayra.uz/hayotdagi-shiorim-maqsad-harakar-intizom-akademik-komiljon-tojiboyev-bilan-suhbat/"
+  }
+]
